@@ -1,0 +1,23 @@
+# Arquivos de objetos e binários do .NET
+[Bb]in/
+[Oo]bj/
+
+# Pacotes e dependências
+packages/
+node_modules/
+
+# Arquivos de log e de build
+*.log
+*.pfx
+*.vsix
+*.suo
+*.user
+*.useros
+*.bak
+*.cache
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Diretórios e arquivos do Visual Studio e VS Code
+.vs/
+.vscode/
