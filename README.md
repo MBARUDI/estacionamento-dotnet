@@ -49,17 +49,6 @@ Certifique-se de ter o **SDK do .NET 6.0** (ou superior) instalado em seu comput
 
 -----
 
-### Contribuindo
-
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
------
-
-### Licença
-
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
-
------
 
 
 
@@ -72,12 +61,6 @@ O objetivo é criar uma presença digital limpa e funcional, onde a transição 
 
 -----
 
-
-    ```
-4.  **Acesse o site** abrindo seu navegador e indo para:
-    `http://localhost:3009`
-
------
 
 ### 🧑 Autor
 
